@@ -48,7 +48,7 @@ flutter:
       windows:
         pluginClass: LanparserPluginCApi
       web:
-        pluginClass: LanparserWeb
+        pluginClass: Lanparser
         fileName: lanparser_web.dart
 
   # To add assets to your plugin package, add an assets section, like this:
